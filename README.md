@@ -1,4 +1,4 @@
-# page-joel
+# global-tracker
 
 ## Project setup
 ```
